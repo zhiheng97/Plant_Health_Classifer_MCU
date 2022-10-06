@@ -1,0 +1,46 @@
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\arm-none-eabi\include\c++\10.3.1\bits\std_abs.h:75:3:constexpr float std::abs(float)	16	static
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\arm-none-eabi\include\c++\10.3.1\cmath:184:3:constexpr float std::cos(float)	16	static
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\arm-none-eabi\include\c++\10.3.1\cmath:338:3:constexpr float std::log(float)	16	static
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\arm-none-eabi\include\c++\10.3.1\cmath:425:3:constexpr float std::sin(float)	16	static
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\arm-none-eabi\include\c++\10.3.1\cmath:463:3:constexpr float std::sqrt(float)	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\eiq\tensorflow-lite/tensorflow/lite/kernels/kernel_util.h:155:12:int tflite::NumInputs(const TfLiteNode*)	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\eiq\tensorflow-lite/tensorflow/lite/kernels/kernel_util.h:158:12:int tflite::NumOutputs(const TfLiteNode*)	16	static
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\eiq\tensorflow-lite/tensorflow/lite/micro/micro_context.h:113:22:tflite::MicroContext* tflite::GetMicroContext(const TfLiteContext*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:30:6:bool tflite::ops::micro::elementwise::{anonymous}::IsNumericSupportedType(TfLiteType)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:34:6:bool tflite::ops::micro::elementwise::{anonymous}::IsLogicalSupportedType(TfLiteType)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:76:21:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::EvalNumeric(TfLiteContext*, TfLiteNode*, float (*)(float))	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:81:21:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::EvalLogical(TfLiteContext*, TfLiteNode*, bool (*)(bool))	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:86:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::AbsEval(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:90:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::SinEval(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:94:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::CosEval(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:98:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::LogEval(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:102:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::SqrtEval(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:107:37:tflite::ops::micro::elementwise::{anonymous}::RsqrtEval(TfLiteContext*, TfLiteNode*)::<lambda(float)>	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:107:37:static float tflite::ops::micro::elementwise::{anonymous}::RsqrtEval(TfLiteContext*, TfLiteNode*)::<lambda(float)>::_FUN(float)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:107:37:tflite::ops::micro::elementwise::{anonymous}::RsqrtEval(TfLiteContext*, TfLiteNode*)::<lambda(float)>::operator float (*)(float)() const	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:106:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::RsqrtEval(TfLiteContext*, TfLiteNode*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:111:37:tflite::ops::micro::elementwise::{anonymous}::SquareEval(TfLiteContext*, TfLiteNode*)::<lambda(float)>	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:111:37:static float tflite::ops::micro::elementwise::{anonymous}::SquareEval(TfLiteContext*, TfLiteNode*)::<lambda(float)>::_FUN(float)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:111:37:tflite::ops::micro::elementwise::{anonymous}::SquareEval(TfLiteContext*, TfLiteNode*)::<lambda(float)>::operator float (*)(float)() const	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:110:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::SquareEval(TfLiteContext*, TfLiteNode*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:115:37:tflite::ops::micro::elementwise::{anonymous}::LogicalNotEval(TfLiteContext*, TfLiteNode*)::<lambda(bool)>	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:115:37:static bool tflite::ops::micro::elementwise::{anonymous}::LogicalNotEval(TfLiteContext*, TfLiteNode*)::<lambda(bool)>::_FUN(bool)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:115:37:tflite::ops::micro::elementwise::{anonymous}::LogicalNotEval(TfLiteContext*, TfLiteNode*)::<lambda(bool)>::operator bool (*)(bool)() const	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:114:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::LogicalNotEval(TfLiteContext*, TfLiteNode*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:121:20:TfLiteRegistration tflite::ops::micro::Register_ABS()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:133:20:TfLiteRegistration tflite::ops::micro::Register_SIN()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:145:20:TfLiteRegistration tflite::ops::micro::Register_COS()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:157:20:TfLiteRegistration tflite::ops::micro::Register_LOG()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:169:20:TfLiteRegistration tflite::ops::micro::Register_SQRT()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:181:20:TfLiteRegistration tflite::ops::micro::Register_RSQRT()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:193:20:TfLiteRegistration tflite::ops::micro::Register_SQUARE()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:205:20:TfLiteRegistration tflite::ops::micro::Register_LOGICAL_NOT()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:62:21:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::EvalImpl(TfLiteContext*, TfLiteNode*, T (*)(T), TfLiteType) [with T = float]	72	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:62:21:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::EvalImpl(TfLiteContext*, TfLiteNode*, T (*)(T), TfLiteType) [with T = bool]	72	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:40:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::GenericPrepare(TfLiteContext*, TfLiteNode*) [with bool (* <anonymous>)(TfLiteType) = tflite::ops::micro::elementwise::{anonymous}::IsNumericSupportedType]	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:40:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::GenericPrepare(TfLiteContext*, TfLiteNode*) [with bool (* <anonymous>)(TfLiteType) = tflite::ops::micro::elementwise::{anonymous}::IsLogicalSupportedType]	56	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\eiq\tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.h:51:10:const T* tflite::micro::GetTensorData(const TfLiteEvalTensor*) [with T = float]	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\eiq\tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.h:45:4:T* tflite::micro::GetTensorData(TfLiteEvalTensor*) [with T = float]	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\eiq\tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.h:51:10:const T* tflite::micro::GetTensorData(const TfLiteEvalTensor*) [with T = bool]	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\eiq\tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.h:45:4:T* tflite::micro::GetTensorData(TfLiteEvalTensor*) [with T = bool]	16	static

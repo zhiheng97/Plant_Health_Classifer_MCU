@@ -1,0 +1,11 @@
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\drivers/fsl_clock.h:2157:20:CLOCK_SetRootClock	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\drivers/fsl_clock.h:2178:20:CLOCK_ControlGate	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\drivers/fsl_clock.h:2197:20:CLOCK_EnableClock	16	static
+../source/video/eiq_camera_conf.c:88:6:CSI_IRQHandler	8	static
+../source/video/eiq_camera_conf.c:99:6:BOARD_EarlyPrepareCamera	4	static
+../source/video/eiq_camera_conf.c:106:13:BOARD_PullCameraResetPin	16	static
+../source/video/eiq_camera_conf.c:118:13:BOARD_PullCameraPowerDownPin	16	static
+../source/video/eiq_camera_conf.c:133:6:BOARD_EarlyInitCamera	4	static
+../source/video/eiq_camera_conf.c:143:6:BOARD_InitCameraResource	8	static
+../source/video/eiq_camera_conf.c:153:6:BOARD_InitMipiCsi	32	static
+../source/video/eiq_camera_conf.c:292:17:BOARD_VerifyCameraClockSource	16	static

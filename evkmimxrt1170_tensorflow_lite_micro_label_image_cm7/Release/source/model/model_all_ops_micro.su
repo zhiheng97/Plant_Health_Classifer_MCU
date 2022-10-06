@@ -1,0 +1,2 @@
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\eiq\tensorflow-lite/tensorflow/lite/micro/all_ops_resolver.h:28:7:virtual tflite::AllOpsResolver::~AllOpsResolver()	0	static
+../source/model/model_all_ops_micro.cpp:10:26:tflite::MicroOpResolver& MODEL_GetOpsResolver(tflite::ErrorReporter*)	8	static

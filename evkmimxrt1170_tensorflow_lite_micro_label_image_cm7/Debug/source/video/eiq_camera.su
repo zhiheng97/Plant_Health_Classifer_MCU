@@ -1,0 +1,13 @@
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\video/fsl_camera_receiver.h:77:24:CAMERA_RECEIVER_Init	32	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\video/fsl_camera_receiver.h:126:24:CAMERA_RECEIVER_Start	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\video/fsl_camera_receiver.h:149:24:CAMERA_RECEIVER_SubmitEmptyBuffer	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\video/fsl_camera_receiver.h:161:24:CAMERA_RECEIVER_GetFullBuffer	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\video/fsl_camera_device.h:93:24:CAMERA_DEVICE_Init	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\video/fsl_camera_device.h:148:24:CAMERA_DEVICE_Start	16	static
+../source/video/eiq_camera.c:47:13:start	8	static
+../source/video/eiq_camera.c:59:15:getResolution	16	static
+../source/video/eiq_camera.c:72:13:notify	8	static
+../source/video/eiq_camera.c:87:13:setReadyCallback	16	static
+../source/video/eiq_camera.c:100:13:bufferReady	24	static
+../source/video/eiq_camera.c:114:13:init	40	static
+../source/video/eiq_camera.c:174:15:EIQ_InitCamera	8	static

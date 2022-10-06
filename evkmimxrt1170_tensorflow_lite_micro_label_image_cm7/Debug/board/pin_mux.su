@@ -1,0 +1,7 @@
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\drivers/fsl_clock.h:2178:20:CLOCK_ControlGate	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\drivers/fsl_clock.h:2197:20:CLOCK_EnableClock	16	static
+C:\Users\zh\Documents\MCUXpressoIDE_11.6.0_8187\workspace\evkmimxrt1170_tensorflow_lite_micro_label_image_cm7\drivers/fsl_iomuxc.h:1633:20:IOMUXC_SetPinMux	24	static
+../board/pin_mux.c:41:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:61:6:BOARD_InitLpuartPins	16	static
+../board/pin_mux.c:90:6:BOARD_InitMipiPanelPins	32	static
+../board/pin_mux.c:150:6:BOARD_InitMipiCameraPins	24	static

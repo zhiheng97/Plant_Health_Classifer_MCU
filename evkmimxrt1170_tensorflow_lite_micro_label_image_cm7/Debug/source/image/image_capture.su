@@ -1,0 +1,2 @@
+../source/image/image_capture.c:44:10:IMAGE_GetImage	40	static
+../source/image/image_capture.c:80:13:IMAGE_GetImageName	4	static

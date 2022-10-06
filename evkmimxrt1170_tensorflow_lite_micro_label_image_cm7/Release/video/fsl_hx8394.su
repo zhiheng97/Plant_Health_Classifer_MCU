@@ -1,0 +1,4 @@
+../video/fsl_hx8394.c:160:10:HX8394_Deinit	8	static
+../video/fsl_hx8394.c:99:10:HX8394_Init	32	static
+../video/fsl_hx8394.c:173:10:HX8394_Start	0	static
+../video/fsl_hx8394.c:181:10:HX8394_Stop	0	static

@@ -1,0 +1,7 @@
+../source/video/eiq_camera_conf.c:118:13:BOARD_PullCameraPowerDownPin	0	static
+../source/video/eiq_camera_conf.c:106:13:BOARD_PullCameraResetPin	0	static
+../source/video/eiq_camera_conf.c:88:6:CSI_IRQHandler	8	static
+../source/video/eiq_camera_conf.c:99:6:BOARD_EarlyPrepareCamera	0	static
+../source/video/eiq_camera_conf.c:133:6:BOARD_EarlyInitCamera	0	static
+../source/video/eiq_camera_conf.c:143:6:BOARD_InitCameraResource	0	static
+../source/video/eiq_camera_conf.c:153:6:BOARD_InitMipiCsi	16	static

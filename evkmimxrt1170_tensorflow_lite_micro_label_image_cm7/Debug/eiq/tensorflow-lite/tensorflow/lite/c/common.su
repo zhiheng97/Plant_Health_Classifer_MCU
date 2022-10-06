@@ -1,0 +1,6 @@
+../eiq/tensorflow-lite/tensorflow/lite/c/common.c:24:8:TfLiteIntArrayGetSizeInBytes	24	static
+../eiq/tensorflow-lite/tensorflow/lite/c/common.c:35:5:TfLiteIntArrayEqual	16	static
+../eiq/tensorflow-lite/tensorflow/lite/c/common.c:41:5:TfLiteIntArrayEqualsArray	32	static
+../eiq/tensorflow-lite/tensorflow/lite/c/common.c:75:5:TfLiteFloatArrayGetSizeInBytes	24	static
+../eiq/tensorflow-lite/tensorflow/lite/c/common.c:226:13:TfLiteTypeGetName	16	static
+../eiq/tensorflow-lite/tensorflow/lite/c/common.c:268:16:TfLiteDelegateCreate	56	static

@@ -1,0 +1,4 @@
+../board/pin_mux.c:41:6:BOARD_InitBootPins	0	static
+../board/pin_mux.c:61:6:BOARD_InitLpuartPins	0	static
+../board/pin_mux.c:90:6:BOARD_InitMipiPanelPins	32	static
+../board/pin_mux.c:150:6:BOARD_InitMipiCameraPins	24	static
